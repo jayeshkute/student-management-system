@@ -26,12 +26,19 @@ Render
 ## 📁 Project Structure
 
 student-management/
+
 ├── backend/
+
 │   ├── main.py
+
 │   └── requirements.txt
+
 ├── frontend/
+
 │   ├── app.py
+
 │   └── requirements.txt
+
 └── README.md
 
 ## ⚙️ Environment Variables
